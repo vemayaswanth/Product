@@ -1,0 +1,2 @@
+Tea totals by year:
+2022:42.0
